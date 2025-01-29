@@ -19,6 +19,7 @@ Exploring cutting-edge CSS and JavaScript techniques to push the boundaries of c
 
 Proficient in:
 - C and C++ programming languages (fundamentals,learning Data Structures, and Algorithms)
+- HTML,CSS ,JavaScript,jquery and bootstrap...
 
 📬*Get in Touch*
 
