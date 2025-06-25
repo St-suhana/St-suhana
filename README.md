@@ -13,15 +13,16 @@ Exploring cutting-edge CSS and JavaScript techniques to push the boundaries of c
 "Focused on:
 - Web Development
 - Creative Coding👩‍💻
-- UI/UX and Graphic Desig🖌
+- UI/UX and Graphic Design🖌
 - Problem Solving🔎
+- learning Figma and Canva
+- ibisPaintX Digital Artist
   
 💻*Programming Skills:*
 
 Proficient in:
 - C and C++ programming languages (fundamentals,learning Data Structures, and Algorithms)
 - HTML,CSS ,JavaScript,jquery and bootstrap...
-- learning Figma and Canva
    
 📬*Get in Touch*
 
