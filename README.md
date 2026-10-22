@@ -1,17 +1,11 @@
- 👋 *About Me*
-
-Hi, I'm @St-suhana ! I'm a student of 2nd year diploma in CSE, passionate about learning and exploring the tech world . 
-I'm excited to share my projects and collaborations with you on GitHub!
-
-❤️‍🔥*Passion Statement:*
-
-"Driven by a passion for crafting innovative, interactive, and visually stunning web experiences.
-Exploring cutting-edge CSS and JavaScript techniques to push the boundaries of creativity and functionality."
+ 👋Hi, I'm Suhana ! I'm a student of 2nd year Btech in CSE, passionate about learning and exploring the tech world . 
+I'm Driven by a passion for crafting innovative, interactive, and visually stunning web experiences.
+Exploring cutting-edge CSS and JavaScript techniques to push the boundaries of creativity and functionality, excited to share my projects and collaborations with you on GitHub!
 
 🥀*Areas of Interest:*
 
 "Focused on:
-- Web Development
+- Full stack Web Development
 - Creative Coding👩‍💻
 - UI/UX and Graphic Design🖌
 - Problem Solving🔎
@@ -21,7 +15,7 @@ Exploring cutting-edge CSS and JavaScript techniques to push the boundaries of c
 💻*Programming Skills:*
 
 Proficient in:
-- C and C++ programming languages (fundamentals,learning Data Structures, and Algorithms)
+- C, C++, PHP, Python programming languages (fundamentals,learning Data Structures, and Algorithms)
 - HTML,CSS ,JavaScript,jquery and bootstrap...
    
 📬*Get in Touch*
